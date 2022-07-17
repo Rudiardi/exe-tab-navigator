@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "exe-tab-navigator",
+    "slug": "exe-tab-navigator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
