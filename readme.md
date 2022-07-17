@@ -1,0 +1,1 @@
+Aplicativo para exercicitar a ultilização de uma tab navigator em React-Native
